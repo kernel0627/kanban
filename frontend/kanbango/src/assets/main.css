@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f8fafc;
+    background-image: linear-gradient(to top, #89e9b9a8 0%, #b8bc8b 100%);
+ }
+
+ .ghost {
+     opacity: 0.5;
+     background: #c8ebfb;
+     border-radius: 6px; }
